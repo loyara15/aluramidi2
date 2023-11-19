@@ -31,7 +31,6 @@ function tocaSomSplash() {
 document.querySelector('.tecla_splash').onclick = tocaSomSplash;
 
 
-
 function tocaSomToim() {
     document.querySelector('#som_tecla_toim').play();
 }
