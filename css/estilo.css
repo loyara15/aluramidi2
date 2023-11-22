@@ -4,6 +4,7 @@
     --vermelha-escura: #af303f;
     --branco: #fff ;
     --luz: rgb(229, 255, 0);
+    --roxo:var(--roxo)
   }
   
   body {
